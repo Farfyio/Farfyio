@@ -4,6 +4,7 @@
 **Farfyio/Farfyio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![farfis](https://github.com/user-attachments/assets/2d737ea9-298f-49dc-805c-98fe719387f9)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
